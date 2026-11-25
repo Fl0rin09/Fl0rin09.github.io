@@ -1,0 +1,238 @@
+{
+ "name": "Fariha Roushon Florin",
+ "eyebrow": "Computer Science graduate, BRAC University",
+ "roles": "Data analytics, Machine learning research, Product and digital, Project communication",
+ "tag": "BSc in Computer Science from BRAC University, with experience as an Analyst at United Commercial Bank (UCB).",
+ "lead": "I build software, analyze data and keep teams talking to each other.",
+ "about": "I am a Computer Science graduate from BRAC University with a CGPA of 3.71/4.00. My work spans machine learning research, web applications, analyst work in brand marketing and corporate affairs at United Commercial Bank, and university-wide event coordination. I am looking for roles in product management, data analytics, business intelligence, digital products and customer experience, where technical skill and clear communication both matter.",
+ "stats": [
+  {
+   "n": "3.71",
+   "l": "CGPA out of 4.00"
+  },
+  {
+   "n": "10",
+   "l": "projects built"
+  },
+  {
+   "n": "2",
+   "l": "research works: thesis and paper"
+  }
+ ],
+ "exp": [
+  {
+   "role": "Analyst",
+   "org": "United Commercial Bank (UCB)",
+   "unit": "Brand Marketing and Corporate Affairs Division",
+   "period": "",
+   "d": ""
+  }
+ ],
+ "projects": [
+  {
+   "t": "SmartRent BD",
+   "c": "web",
+   "d": "A rental housing platform with property listing, advanced search and filtering, and property management. It includes multi-image upload, NID-based profile verification, map-based location and online payment.",
+   "tags": "PHP (Laravel), MySQL, Tailwind CSS",
+   "u": "https://github.com/Fl0rin09/SmartRent_BD"
+  },
+  {
+   "t": "Aircraft Delay Prediction",
+   "c": "data",
+   "d": "A machine learning project that predicts flight delays. It covers exploratory data analysis and a comparison of classification models.",
+   "tags": "Python, Pandas, Scikit-learn",
+   "u": ""
+  },
+  {
+   "t": "Multiclass Text Classification",
+   "c": "data",
+   "d": "Compared frequency-based (BoW, TF-IDF) and embedding-based (GloVe, Skip-gram) text representations across classical and neural models, including DNN, RNN, GRU and LSTM variants, for 10-category classification.",
+   "tags": "Python, TensorFlow/Keras, Scikit-learn, NLTK",
+   "u": ""
+  },
+  {
+   "t": "Fitness Club Management Platform",
+   "c": "web",
+   "d": "A gym management web platform with membership subscriptions, class scheduling, an online equipment store and a community blog for success stories.",
+   "tags": "PHP (Laravel), MySQL, HTML",
+   "u": ""
+  },
+  {
+   "t": "VSFS Journaling File System",
+   "c": "sys",
+   "d": "Implemented journaling and recovery mechanisms for a virtual file system.",
+   "tags": "C, Linux",
+   "u": ""
+  },
+  {
+   "t": "Car Racing Game",
+   "c": "sys",
+   "d": "An interactive racing game with real-time collision detection, obstacle spawning and multiple difficulty levels.",
+   "tags": "Python, PyOpenGL, GLUT",
+   "u": "https://github.com/Fl0rin09/Cse428_project"
+  },
+  {
+   "t": "Image Processing",
+   "c": "data",
+   "d": "Image processing coursework and experiments in Jupyter Notebook.",
+   "tags": "Jupyter Notebook",
+   "u": "https://github.com/Fl0rin09/Image-Processing-"
+  },
+  {
+   "t": "Genetic Algorithm Problem Solving",
+   "c": "data",
+   "d": "Solving problems with genetic algorithms.",
+   "tags": "Algorithms",
+   "u": "https://github.com/Fl0rin09/genetic-algorithm-problem-solve"
+  },
+  {
+   "t": "Bioinformatics",
+   "c": "data",
+   "d": "Bioinformatics coursework and experiments.",
+   "tags": "Bioinformatics",
+   "u": "https://github.com/Fl0rin09/bioinformatices"
+  },
+  {
+   "t": "Games",
+   "c": "sys",
+   "d": "A collection of small game projects.",
+   "tags": "Games",
+   "u": "https://github.com/Fl0rin09/Games"
+  }
+ ],
+ "repos": [
+  {
+   "t": "Machine Learning",
+   "u": "https://github.com/Fl0rin09/mechine-Learning"
+  },
+  {
+   "t": "Data Structures",
+   "u": "https://github.com/Fl0rin09/Data-structure"
+  },
+  {
+   "t": "Algorithm Problem Solving",
+   "u": "https://github.com/Fl0rin09/algorithm-problem-solving"
+  },
+  {
+   "t": "OOP",
+   "u": "https://github.com/Fl0rin09/OOP"
+  },
+  {
+   "t": "Python Programming",
+   "u": "https://github.com/Fl0rin09/programming_Python"
+  },
+  {
+   "t": "Laravel projects",
+   "u": "https://github.com/Fl0rin09/projects"
+  },
+  {
+   "t": "Notes",
+   "u": "https://github.com/Fl0rin09/NOTES"
+  }
+ ],
+ "research": [
+  {
+   "k": "Undergraduate thesis",
+   "t": "Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model",
+   "b": [
+    "Compressed a 9B-parameter LLM into a fully offline, smartphone-deployable 2B-parameter legal assistant using knowledge distillation and retrieval-augmented generation.",
+    "Evaluated performance with ROUGE-L, BERTScore and human expert review across a hybrid retrieval pipeline."
+   ],
+   "u": "https://arxiv.org/abs/2609.24177"
+  },
+  {
+   "k": "Research paper",
+   "t": "The Role of Effective Business Communication in Successful Project Management",
+   "b": [
+    "Examined how communication practices, team collaboration and stakeholder coordination relate to project performance, and how effective communication contributes to successful project delivery."
+   ],
+   "u": ""
+  }
+ ],
+ "skills": [
+  {
+   "g": "Programming",
+   "v": "Python, C, C++, PHP, Java"
+  },
+  {
+   "g": "Web development",
+   "v": "HTML, CSS, PHP (Laravel), MySQL, Tailwind CSS"
+  },
+  {
+   "g": "Data and ML",
+   "v": "NumPy, Pandas, PyTorch, TensorFlow, OpenCV, Scikit-learn"
+  },
+  {
+   "g": "Visualization",
+   "v": "Matplotlib, Seaborn"
+  },
+  {
+   "g": "Tools",
+   "v": "Git, GitHub, VS Code, Ubuntu, LaTeX"
+  },
+  {
+   "g": "Languages",
+   "v": "Bangla (native), English (fluent), Hindi (basic)"
+  },
+  {
+   "g": "Professional",
+   "v": "Problem-solving, communication, adaptability, time management, integrity"
+  }
+ ],
+ "edu": {
+  "t": "BSc in Computer Science, BRAC University",
+  "m": "Graduated 2026 with a CGPA of 3.71/4.00. Medium of instruction: English.",
+  "a": "Leadership and event coordination",
+  "b": [
+   "Helped organize university-wide events, supporting both planning and on-the-ground execution.",
+   "Worked with students, faculty members and administrative teams to deliver events successfully.",
+   "Built leadership, stakeholder management and teamwork skills through active organizational involvement."
+  ]
+ },
+ "docs": [
+  {
+   "k": "Certificate",
+   "t": "Provisional Certificate",
+   "d": "Bachelor of Science in Computer Science, CGPA 3.71/4.00. Issued 7 October 2026.",
+   "f": "docs/provisional-certificate.pdf",
+   "i": "docs/provisional-certificate.jpg"
+  },
+  {
+   "k": "Medium of Instruction",
+   "t": "Medium of Instruction Letter",
+   "d": "Official BRAC University letter (25 October 2026) confirming English as the medium of instruction and examination.",
+   "f": "docs/medium-of-instruction.pdf",
+   "i": "docs/medium-of-instruction.jpg"
+  },
+  {
+   "k": "Certificate",
+   "t": "Degree Completion Letter",
+   "d": "Official letter (25 October 2026) confirming completion of all required courses with a CGPA of 3.71/4.00.",
+   "f": "docs/degree-completion-letter.pdf",
+   "i": "docs/degree-completion-letter.jpg"
+  },
+  {
+   "k": "Reference",
+   "t": "Letter of Recommendation",
+   "d": "Written by Dr. Farig Yousuf Sadeque, Associate Professor, Department of CSE, BRAC University.",
+   "f": "docs/letter-of-recommendation.pdf",
+   "i": "docs/letter-of-recommendation.jpg"
+  }
+ ],
+ "refs": [
+  {
+   "n": "Dr. Farig Yousuf Sadeque",
+   "r": "Associate Professor, Department of Computer Science and Engineering, BRAC University",
+   "e": "farig.sadeque@bracu.ac.bd",
+   "f": "docs/letter-of-recommendation.pdf"
+  }
+ ],
+ "contactLine": "Open to roles in research, analytics and digital products. Email or call me.",
+ "contact": {
+  "email": "fariha.roushon@gmail.com",
+  "phone": "+8801777186736",
+  "li": "https://www.linkedin.com/in/fariha-roushon-florin-0053372bb",
+  "gh": "https://github.com/Fl0rin09",
+  "cv": "https://drive.google.com/file/d/1lARBr3ym5xKMSQpLmcuWAh5402dy8_TA/view?usp=sharing"
+ }
+}
